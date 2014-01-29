@@ -1,4 +1,4 @@
-package com.periskal.CalendarPlugin;
+package com.periskal.calendar;
  
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
