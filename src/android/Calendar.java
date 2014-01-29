@@ -1,4 +1,4 @@
-package com.periskal.calendar;
+package com.jeroen.calendar;
  
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
@@ -11,6 +11,7 @@ import android.content.Intent;
 
 public class Calendar extends CordovaPlugin {
     public static final String ACTION_ADD_CALENDAR_ENTRY = "addCalendarEntry";
+    
     @Override
     public boolean execute(String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
     	try {
