@@ -1,4 +1,4 @@
-package com.jeroen.calendar;
+package org.jeroen.calendar;
  
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
